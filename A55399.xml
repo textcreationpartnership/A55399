@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Part of the sufferings of Leicestershire &amp; North-Hamptonshire by informers and priests also, God's mercies testified unto, and mans cruelty bore witness against : being a faithful demonstration given forth in the dread of the Lord, against the cruelty of persecution, as it hath of late been manifested, and notoriously acted by the priest and people of the town of Farthingstone in the county of North-Hampton to shame of their professed religion and to the injury of those who truly fear God and worship him : which may be as a prospect unto them, whereby they may behold themselves and consider the evil of their ways and be warned to timely repentence in this their day ... / W. Pooley.</title>
+            <author>Pooley, W. (William)</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55399</idno><idno type="EEBO-CITATION">13736640</idno>
+  <idno type="VID">101630</idno>
+  <idno type="EEBO-PROQUEST">2248498638</idno>
+  
+            <idno type="STC">Wing P2859</idno>
+            <idno type="STC">ESTC R8559</idno>
+            <idno type="OCLC">13736640</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Part of the sufferings of Leicestershire &amp; North-Hamptonshire by informers and priests also, God's mercies testified unto, and mans cruelty bore witness against : being a faithful demonstration given forth in the dread of the Lord, against the cruelty of persecution, as it hath of late been manifested, and notoriously acted by the priest and people of the town of Farthingstone in the county of North-Hampton to shame of their professed religion and to the injury of those who truly fear God and worship him : which may be as a prospect unto them, whereby they may behold themselves and consider the evil of their ways and be warned to timely repentence in this their day ... / W. Pooley.</title>
+                  <author>Pooley, W. (William)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 12: William Pooley.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  Early works to 1800.</term>
+               <term type="geographic_name">Leicestershire (England) --  History.</term>
+               <term type="geographic_name">Northamptonshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101630:1"/>
+            <pb facs="tcp:101630:1"/>
+            <p>Part of the SUFFERINGS OF <hi>Leicestershire</hi> &amp; <hi>North-hamptonshire,</hi> By Informers and Priests.</p>
+            <p>ALSO, God's Mercies Testified unto, And MANS CRUELTY Bore Witness against; Being a faithful <hi>Demonstration,</hi> given forth in the Dread of the Lord, against the Cruelty of PERSECUTION, As it hath of late been manifested, and notoriously acted by the Priest and People of the Town of <hi>Farthingstone,</hi> in the County of <hi>North-hampton,</hi> to the shame of their professed Religion, and to the Injury of those who truly fear God, and Worship him.</p>
+            <p>Which may be as a <hi>Prospect</hi> unto them, whereby they may behold themselves and consider the Evil of their ways, and be warned to timely Repentance in this their Day.</p>
+            <q>
+               <p>By one who testifies, that Love worketh no ill to our Neighbour, and that he that loveth not his Neighbour as himself, is a Transgressor of a greater Command than the Law of Man,
+<bibl>
+                     <hi>W. Pooley.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Behold, the Devil shall cast some of you into Prison,
+<bibl>
+                     <hi>Rev. 2.10.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:101630:2"/>
+            <pb n="3" facs="tcp:101630:2"/>
+            <head>A short Account of some Sufferings of the People called <hi>Quakers,</hi> in <hi>Leicestershire</hi> and <hi>Northamptonshire.</hi>
+            </head>
+            <div type="part">
+               <head>
+                  <hi>The Sufferings of</hi> John Adams, Francis Broughton, Hannah Fish, William Smith, <hi>and others, for</hi> Harborough-<hi>Meeting in</hi> Leicestershire.</head>
+               <p>VVHither <hi>John Smith</hi> and one <hi>Ricket</hi> his Servant, and <hi>To<g ref="char:EOLhyphen"/>biah Smith</hi> his Assistant came to our peaceable Mee<g ref="char:EOLhyphen"/>ting, it being in silence to wait on the Lord, the second day of the second Moneth, called <hi>April,</hi> 1682. when they were col<g ref="char:EOLhyphen"/>lecting Money (the Meeting being over) for the Poor, and some Friends gone away when they came; for which <hi>John Adams</hi> was fined by <hi>Samuel Cole</hi> Justice, 20 <hi>l.</hi> as being the repu<g ref="char:EOLhyphen"/>ted Owner of the Meeting-House, whereas he was not the Owner; besides the Fines of the said <hi>Hannah Fish, Francis Broughton, William Smith,</hi> and others.</p>
+               <p>And the said <hi>John Smith</hi> and <hi>Ricket,</hi> on the 23d of the said Moneth, came again to the said Meeting-place, and after swore before the said Justice, <hi>That</hi> John Adams <hi>was there;</hi> who was not, as before the Justice he offered to prove; and for that Mee<g ref="char:EOLhyphen"/>ting <hi>William Smith</hi> was fined for the House 20 <hi>l.</hi>
+               </p>
+               <p>And the said <hi>J. Smith</hi> and his Servant swore, <hi>That the said</hi> Francis Broughton, John Adams <hi>and</hi> Hannah Fish, <hi>and others, were at the Meeting the</hi> 10th <hi>of</hi> May; though neither <hi>John Smith</hi> nor his Man were seen at the Meeting at that time by any there; for which, and the other said Meetings, the said Justice fined the said <hi>John Adams</hi> 20 <hi>l.</hi> 10 <hi>s.</hi> and the said <hi>F. Broughton</hi> 11 <hi>l.</hi> 15 <hi>s.</hi> and the said <hi>Hannah Fish</hi> 10 <hi>l.</hi> 5 <hi>s.</hi> and the said <hi>William Smith</hi> 20 <hi>l.</hi> 15 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Robert Dexter,</hi> on the 23d of the 2d Moneth aforesaid, the very next day after he was sworn Constable (after the decease
+<pb n="4" facs="tcp:101630:3"/>of <hi>J. Cork,</hi> the younger, who suffered the Distress of 5 <hi>l.</hi> for not distraining on his Neighbours Goods) came with two Officers, and warned <hi>John Adams,</hi> and several others at their Houses, to go to Church, and at night warned them again to appear the next-day before the Justices, and next day but one brought a Warrant about Sun-rising, and fetcht the said <hi>John Adams, Francis Broughton</hi> and <hi>Hannah Fish,</hi> and others, and carried them nine Miles to the said <hi>Cole</hi> (as fittest for the Informer) who then fined them as aforesaid: And the said <hi>Dexter</hi> next Morn<g ref="char:EOLhyphen"/>ing about half an hour after Sur-rising came with about eight Officers, and several other Assistants, and climbed over a Hedge a back-way, coming in at a back-Door (the fore-door being not yet opened) and using boisterous Language, took from the said <hi>John Adams</hi> two Cows and two Heifers, with the most part of his Houshold Goods, in all worth 22 <hi>l.</hi> 11 <hi>s.</hi> and next day carried the said Cattel to a Fair to sell (so quick and dexterous in his Master, the God of the World's sinister Work, was this Constable <hi>Dexter.</hi>) And for same Meetings were taken by the said Constable, from the said <hi>Francis Broughton,</hi> a poor Weaver, his Loome (being contrary to Law, which prohibits the distraining of Working Tools) and some other Houshold Goods, to the value of 4 <hi>l.</hi> 16 <hi>s.</hi> 6 <hi>d.</hi> and from <hi>Hannash Fish</hi> Goods and Chattels to the value of 16 <hi>l.</hi> 2 <hi>s.</hi> These three Friends were Inhabitants of <hi>Great Bowden.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Some other lesser Distresses about the same time:</head>
+               <p>From <hi>William Smith,</hi> for his Fines for the Meetings aforesaid, by the Officers of <hi>Harborough</hi> were taken of Shop-goods and Houshold-goods to the value of 10 <hi>l.</hi> 10 <hi>s.</hi> 8 <hi>d.</hi> and also account taken of other Goods mark'd, though not then taken away.</p>
+               <p>And for the said Meetings were fined <hi>Joseph Fish's</hi> Wife 20 <hi>s. Elizabeth Harper</hi> 25 <hi>s.</hi> and <hi>Samuel Shuter's</hi> Wife 25 <hi>s.</hi> all of <hi>Harborough.</hi>
+               </p>
+               <p>Upon the Act for 12 <hi>d.</hi> a Sunday, from <hi>John Philips</hi> of <hi>Luben<g ref="char:EOLhyphen"/>ham,</hi> and his Wise's absence from Church (so called) three days, and for that, fined 6 <hi>s.</hi> were distrained Goods worth 7 <hi>s.</hi> From <hi>Thoma: Corby</hi> of <hi>Turlangton,</hi> for the like three days absence fined 3 <hi>s.</hi> were Goods distrained worth 6 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:101630:3"/>
+               <head>Northamptonshire, <hi>by Warrants from</hi> Henry Benson.</head>
+               <p>THe 24th of the 1st Moneth, (called <hi>March</hi>) 1682. from <hi>Benjamin Wright</hi> of <hi>Blaxly,</hi> were taken fifty four foot of Oak Boards, worth 6 <hi>s.</hi> 9 <hi>d.</hi>
+               </p>
+               <p>The 5th of the 3d Moneth, 1682. from <hi>George Eayre</hi> of <hi>Far<g ref="char:EOLhyphen"/>thing stone,</hi> of Cattel and Houshold-Goods, and all sorts (as appears by the List) they met with, worth 46 <hi>l.</hi> 15 <hi>s.</hi> 11 <hi>d.</hi>
+               </p>
+               <p>[Note, <hi>John Hutton,</hi> the Priest, spake to the Officers after his service, <hi>To take care to mannage the work throughly;</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mas Hog</hi> the Informer stood up at the same time, and promised him, <hi>That he would see it throughly mannag'd,</hi> which he did; for he, with the Priest's Man, the other Informer, waited on them all the while, looking up and down the House, and forcing, (as much as in them lay) the Officers to make Spoil of all; only the Priest gave order to let their Beds alone at that time. But they threaten daily to come for more, not having brought, as they say, to make up the Money.</p>
+               <p>And the same day from <hi>Susanna Bilton</hi> of <hi>Farthingstone,</hi> for 10 <hi>l.</hi> Goods worth 18 <hi>l.</hi> at a moderate price. <hi>Thomas Hog</hi> and <hi>Matthew Arnold</hi> the Priest's servant, Informers, much desiring the Officers both by flattery and threatning to mannage the work throughly, as the Priest had done. And when they had sold the Goods, they brought her but 5 <hi>l.</hi> again: But the Widdows Relations and the Officers, without her consent, gave part of it to the Priest for a <hi>Mortuary</hi> for her Husband lately deceased, though buried among Friends; and the other part of it for Steeple-house fess; and the remaining 8 <hi>s.</hi> would have forced upon her, which she refused.</p>
+               <p>The 18th of the 3d Moneth, 1682. from <hi>John Eayre</hi> of <hi>Lith<g ref="char:EOLhyphen"/>borow,</hi> Goods worth 4 <hi>l.</hi> 14 <hi>s</hi> 3 <hi>d.</hi>
+               </p>
+               <p>[Note, <hi>Joseph England</hi> the Constable, told the other Officers, <hi>If they could have got good store of Goods into his Hand, he would have given them all; but now he would give them none.</hi>]</p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:101630:4"/>
+            <head>Gods Mercies testified unto, AND Man's Cruelty bore witness against.</head>
+            <head type="sub">
+               <hi>Being a faithful Demonstration, given forth in the Dread of the Lord, against the Cruelty of</hi> PERSECUTION.</head>
+            <p>GOD Almighty, who is over all blessed forever, having, according to his pretious Promise of old, <hi>given his Son for a Light to the</hi> Gentiles, <hi>that he might be his Salvation to the ends of the Earth,</hi> hath among the many Nations, Kingdoms and Countries of this World beheld and visited this little Nor<g ref="char:EOLhyphen"/>thern Nation of <hi>ENGLAND,</hi> and in his Love and Mercy hath he caused his Blessed and acceptable day of Salvation to dawn upon it <hi>to give Light to them that sit in Darkness, and in the Region of the Shadow of Death,</hi> by which Pretious Light, as many as have taken heed unto it, and faithfully obeyed it, have known their feet turned into the way of Peace, Glory and endless Praises to the God of living Mercies for evermore; and blessed be his Name that a Remnant hath received and embraced the Visitation of his acceptable Day, in the Light whereof, as they have walked, they have been gathered out of the World, and its Ways and Worships, and departed from among them, who are of the Night, <hi>who love Darkness rather than Light, because their deeds are Evil.</hi>
+            </p>
+            <p>And ever since the day in which the Lord hath thus appeared, great hath been the Opposition that hath been met withal by these whom God hath thus gathered: Oh! how hath the Prince of Darkness, with all his Power, Force and Instruments ga<g ref="char:EOLhyphen"/>thered themselves together, and raised up their Might and
+<pb n="7" facs="tcp:101630:4"/>Strength, that they might bring to nought and extinguish the Work of the Lord, and scatter again the People whom he hath gathered, that they might not remain nor appear upon the face of the Earth, as many might be the Testimonies of the Unwor<g ref="char:EOLhyphen"/>thyness of many of this Generation, who have not only resisted the blessed appearance of the Light of the Son of God in them<g ref="char:EOLhyphen"/>selves, but have also with force and violence sought the <hi>destruction</hi> of them that have received him, and believed in him. Large is the Record of Cruelty, which at sundry times, and in divers manners, and in several places of this Nation for <hi>twenty</hi> or <hi>thirty</hi> years last past, by <hi>Imprisonment, Banishment</hi> and <hi>Spoiling</hi> of <hi>Goods,</hi> which hath been acted in furious Severity, without any pity, even against them that have truly feared God, and Worshipped him; so that it may justly befall thee, O <hi>England!</hi> to be Judged and chastised because thou hast been so cruel and Unmercifulto those of thy own Nation. And though the Lord hath many times appeared in Wrath, and executed his Judgments against thy Inhabitants, be<g ref="char:EOLhyphen"/>cause of these things, whereby thy <hi>heart</hi> hath been <hi>humbled</hi> a little, and brought down for a time, and thy cruelty and violence hath ceased for a season; yet alas! as Peace, Ease and Prosperity hath abounded again, how have many of thy Inhabitants (like <hi>Pharoah</hi> of old) even hardened their hearts and renewed their <hi>Ʋnchristian<g ref="char:EOLhyphen"/>like</hi> Envy, to oppress their near innocent Neighbours within thee, and persue them to Destruction? And (with the several places within thy borders) O <hi>England!</hi> we in the County of <hi>North<g ref="char:EOLhyphen"/>hampton</hi> have not escaped thy Wrath nor been altogether unsensi<g ref="char:EOLhyphen"/>ble sometimes of the implacable outrage of some of thy In<g ref="char:EOLhyphen"/>habitants against us, although God in his Justice hath taken away several of them, and as an evident token of his great displeasure hath cut off some in the height of their Fury when their Wrath was kindled against us, which the prudent among the Magistrates have seriously observed, and taking Example by it, have with-holden their hands from such like Actions, and been mode<g ref="char:EOLhyphen"/>rate and peaceable in their places for their times, by which they have obtained a good Report in the Country, and been honour<g ref="char:EOLhyphen"/>able among the people; yet how are others again risen up in the Youth of their years, who have not known nor took notice
+<pb n="8" facs="tcp:101630:5"/>what the Lord hath wrought, but in the heat of their Fury are spending their Strength, to fill up the measure of their Fathers Sins, as is largely witnessed and verified at and near about the Town of <hi>Farthingston,</hi> in the County of <hi>Northampton,</hi> where Satans Seat is, who, by his Agents and Subjects of his Kingdom, is there executing his great Wrath, because he knoweth he hath but a snort time. O ye People of the Town of <hi>Farthingston!</hi> Consider and observe how you are become as furious Captives of the Ene<g ref="char:EOLhyphen"/>my of your own Souls, who being hurried by him and his Mini<g ref="char:EOLhyphen"/>sters, are rushing into Persecution as the Horse rusheth into the Battel, therefore are your hearts filled with Wrath and Insatiable Envy against God and his People, and the Righteous Worship, by which his Name is honoured in the Earth.</p>
+            <p>O <hi>Farthingston, Farthingston!</hi> my Soul has been distressed for thee, and my Spirit oppressed within me, in the remembrance of you, O ye People of <hi>Farthingston!</hi> And in the fence of the Cruelty of your Actions, oh what manner of Lamentation may be taken up for you? or what may be said unto you, that you might hear, fear, and be warned, at least in this your day, of the Evil of your Ways, before the time of your Visitation pass over, and Re<g ref="char:EOLhyphen"/>pentance be utterly hid from your Eyes. Alas! alas, for you! how is hardness of Heart seized upon you! How has Darkness, even gross darkness covered you! that while you pretend to Loyalty, your Passion is so hot, that you will not admit of true <hi>Christianity!</hi> O what will become of you! have not you decla<g ref="char:EOLhyphen"/>red your Sin as <hi>Sodom,</hi> and your Iniquity as <hi>Gomorrah?</hi> Who be<g ref="char:EOLhyphen"/>ing like unto you in their day, even filled with Violence, became dreadfull Examples of Gods Judgments: And do ye think, O ye Inhabitants of the Town of <hi>Farthingston!</hi> that whilst you are guilty of the same things, you can escape the just hand of the Almighty? O surely nay, your pretended <hi>Christianity</hi> will not secure you, nor the Law you pretended to act by Justifie you in the day when God will plead with you, and require these things of you again, which by Wicked hands through violence and cruel<g ref="char:EOLhyphen"/>ty you have unjustly taken away from those who have had no Hel<g ref="char:EOLhyphen"/>per in the Earth. Wherefore consider and read <hi>John</hi> 15.7. <hi>Acts</hi> 5.28, 30. By which Scriptures we may understand, that although the Jews said of Christ, <hi>We have a Law, and by our Law
+<pb n="9" facs="tcp:101630:5"/>he ought to Dye,</hi> yet notwithstanding were they charged by the holy Ghost as <hi>Murderers,</hi> and guilty of Innocent Blood, even as you, notwithstanding your Legal Confidence, will certainly be found in the sight of God deeply guilty of violent Spoil and cruel wrong; therefore consider, and ponder your Wayes, and take a view of your Actions; have you done as you would be done unto? Do you desire to find no more pitty from him to whom you owe ten thousand Talents, than you have shewed towards your fellow Servants, as by the Parable you may read your portion, <hi>Mat.</hi> 18.33, 34. For certainly God that made you will reckon with you, and the Almighty will call you to an account for those things; and as you have had Compassion on your fellow Servants, even so may you expect to find pitty from the Lord; and alas! if thus it must be measured unto you, how little will that be to you, who have not counted it enough to take away all outward supplies, but after you have stripped of all, to cast into Prison; you who have not Compassionated the Condition of the Fatherless, nor Wid<g ref="char:EOLhyphen"/>dows, nor yet spared to Spoil the Goods of the Motherless Child! O Merciless Cruelty! How insatiable has your Wrath been! but certainly the Lord will plead for these things, and his Soul will be avenged on such a People as this, although your Teachers that lead you, may cry <hi>Peace, Peace</hi> unto you, and may with Confidence preach your Security for a Season, in the possession of your Ravenous prey, which you have so greedily taken away from the Innocent and helpless, yet certainly know, God will raise his Witness in you, and the Anguish and Burthen of the Guilt of those things which you have thus received with Joy, and treasured up together with delight, will be as Meat to that worm that will never dye, and as fewel to that fire that will Torment you, and never be quenched, without your timely unfeigned Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>And can you imagine, <hi>O Priest</hi> and <hi>People</hi> of the Town of <hi>Far<g ref="char:EOLhyphen"/>thingston!</hi> or can you securely think with your selves, that your late unneighbourly &amp; cruel <hi>Ʋnchristian-like</hi> Actions will be taken for your <hi>Loyalty to the</hi> KING, or any real zeal to his <hi>Laws</hi> and <hi>Government,</hi> as you so stoutly pretend? O Surely nay; this Co<g ref="char:EOLhyphen"/>vering is too narrow to hide your Wickedness and the inbred Abomination of your Hearts; for know assuredly, the day which
+<pb n="10" facs="tcp:101630:6"/>is dawned doth discover your secret Iniquity, and the Light which you persecute doth make you openly manifest, that it is not true <hi>Loyalty,</hi> but <hi>Covetousness</hi> which is <hi>Idolatry,</hi> which as a raign<g ref="char:EOLhyphen"/>ing Pestilence has begun in the heart of your Priest. And be<g ref="char:EOLhyphen"/>hold! how has this <hi>Plague</hi> broke forth among you, and infected almost his whole Congregation? And so contagious is this Dis<g ref="char:EOLhyphen"/>temper among you, that without Remedy it will prove eternally mortal unto you, except you Repent; and because of the noy<g ref="char:EOLhyphen"/>som effect of this your <hi>Covetousness</hi> and furious <hi>Idolatry,</hi> how are you become as an odium to your Neighbour-Towns, and as a loathsom ill Savour to sober and considerate People, who do hear of and abhor your abominable Actions? So that it may be said of thee, O <hi>Priest,</hi> and you his captive Proselites of the Town of <hi>Farthingston,</hi> that although many have done wickedly, yet as in the County of <hi>North-hampton</hi> you have exceeded them all. Oh! therefore consider what is the matter, examine a little what aileth you? O People! you who once, many of you, were freely inclin<g ref="char:EOLhyphen"/>able to moderate attention to the divine Testimonies of Gods pretious Truth, which hath been sounded among you through the Servants of the Lord in our Assemblies: O! how strangely is the State of your hearts changed! What! is a <hi>Woolf</hi> in <hi>Sheeps</hi> cloathing entred in among you, and e'er you saw thorow his false covering? how are you begotten into the same Woolfish Nature by him? So that some of you are not only Ravening after the same Ungodly Prey with him, but others of you are (even you your selves) become as Captives of Prey to his Ravenous Teeth. Alas for you! O poor People, that although some of you do now see that his fruits do clearly make him known so to be, yet do not know how to deliver your selves from his oppressive Yoke, but are driven by violence, with him, to do that with your hands, which the witness of God in your own hearts condems you for: Oh! my Soul truly pities you, for your Condition is deplorable: But how are some of you, like the Boar out of the Wood, and the wild Beast of the Field, even given up with greediness to waste and devour God's Heritage, in this place, to your power? but the Lord will too strong for you: Oh, that it should be so with you! that men, pretending to <hi>Christianity,</hi> should not only so far lose the <hi>Nature</hi> of <hi>Christians,</hi> but even of men also, and be dege<g ref="char:EOLhyphen"/>nerated into the very nature of <hi>Beasts,</hi> even <hi>Beasts of prey!</hi>
+            </p>
+            <pb n="11" facs="tcp:101630:6"/>
+            <p> And this is the-Effect of the Ministry of your Teacher, and the unhappy fruits his Preaching has produced, sience he came among you, that instead of turning you from the power of Satan, unto God, you are become many fold more the Children of the Devil than you were before, unto whose discipline you have so devoutly proselited your selves, that you are become greatly ali<g ref="char:EOLhyphen"/>enated in your Mindes from the fear of him who hath said, <hi>Thou shalt love thy Neighbour as thy self.</hi> And may it not be truly said of you, that you have not been more effectually zealous to any Duty, than to oppress your Neighbours with the great Cruelty, much like in Nature to those of whom Christ foretold <hi>John,</hi> 16.2. <hi>who should think they did God Service by killing his Servants?</hi> Where<g ref="char:EOLhyphen"/>fore, O People! consider your Wayes, and be still; fear the Lord, and not man; Tremble before him, and dread his mighty Name, lest his Wrath break forth against you, and you perish in his displeasure; For if we reason a little with you, what may we say unto you, O People! wherefore do ye so contemn God? wherefore is it that you have such despite against him, that you will not suffer those that love him to Assemble themselves toge<g ref="char:EOLhyphen"/>ther, to wait upon him, and to perform that duty which they owe unto him, and which Conscientiously they believe the Lord their God requireth at their hands? O! why is it so, that for this, and no other cause, you are so Angry with them, and so Outragious against them? Do you grudge against it, that the holy Name of the Lord, the God of Heaven should be honoured amongst men in the Earth? or do ye think hereby to draw us away from the Profession of our precious Faith to have fellowship with you, and to be conformable unto you in your vain Worships, who are de<g ref="char:EOLhyphen"/>stroying and persecuting us? If so, I must tell you, assuredly your Hopes will perish, and your expectation will deceive you; <hi>For behold, the Lord is our Rock, and the God of</hi> Israel <hi>is our Salvation; And as we abide faithful to him, you shall never be able to pluck us out of his hand though for a season you may execute your Wrath in this your hour and power of darkness.</hi> Yet the hope that we have in him doth more confirm us; than the great<g ref="char:EOLhyphen"/>est of Cruelties which you can threaten, can terrifie us; and it is freely our choise, rather to be of the number of those that are in Jeopardy to suffer Affliction by you, than to have fellowship with you in your presumptuous sins, or to be joyned unto you in
+<pb n="12" facs="tcp:101630:7"/>your <hi>Cruelties;</hi> for we know right well, <hi>if we partake with you of those your Sins, we must receive of your Plagues,</hi> which neither your <hi>pretended Christianity,</hi> nor <hi>litteral formed Worships</hi> will save or secure from.</p>
+            <p>Therefore, in time be warned of the evil of your wayes, and Repent of the Works of your hands, and of the Cruelties of your Actions, O <hi>Priest</hi> and <hi>People</hi> of the Town of <hi>Farthingston!</hi> least Judgment without Mercy be your portion (who have shewed no Mercy) and you justly receive at the last, the heavy sentence of those unto whom Christ will say, <hi>In as much as you have done it unto the least of these, ye have done it unto me.</hi> And thus in the fear of the Lord, according to Truth, not with flattering words, but in plainness of Speech, having cleared my Conscience unto you, I remain,</p>
+            <closer>
+               <signed>A true Lover of the Son's of all men, and one that unfeginedly wisheth<lb/> the increase of Love and peace among all people forever.<lb/> William Pooley.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
